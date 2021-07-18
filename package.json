@@ -6,8 +6,17 @@
     "publisher": "asv520",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/asv520/520Dark.git"
     },
+    "keywords": [
+        "dark theme",
+        "gaming theme",
+        "gamer theme",
+        "520 dark",
+        "520Dark",
+        "520 Dark",
+        "theme"
+    ],
     "engines": {
         "vscode": "^1.58.0"
     },
