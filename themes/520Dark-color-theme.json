@@ -23,7 +23,7 @@
 		"tab.activeForeground": "#ffc400",
 		"dropdown.background": "#ff0000",
 		"button.background": "#ff0000",
-		"statusBar.background": "#fa8072",
+		"statusBar.background": "#0f1231",
 		"statusBar.foreground": "#756000",
 		"terminal.foreground": "#e6d09f"
 	},
