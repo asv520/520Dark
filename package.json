@@ -1,0 +1,26 @@
+{
+    "name": "520dark",
+    "displayName": "520Dark",
+    "description": "A dark theme with more focus towards red",
+    "version": "0.0.1",
+    "publisher": "asv520",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "520Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/520Dark-color-theme.json"
+            }
+        ]
+    }
+}
